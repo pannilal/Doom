@@ -1,4 +1,4 @@
-# DOOM — React Three Fiber
+# DOOM — 3D
 
 A retro-style Doom clone built entirely in the browser with React Three Fiber, Three.js, and Zustand.
 
@@ -46,4 +46,4 @@ npm start
 
 ## Credits
 
-Created by Praneel Singh [HackClub](https://www.hackclub.com/).
+Created by Praneel Singh for [HackClub](https://www.hackclub.com/).
