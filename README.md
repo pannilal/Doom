@@ -12,13 +12,6 @@ Race through a demonic stronghold rendered with `react-three-fiber`, blast enemi
 
 ---
 
-## Features
-
-- Retro FPS presentation with sprite-driven enemies and weapons
-- Browser-based first-person movement powered by React Three Fiber and Three.js
-- Lightweight game state with Zustand
-- Custom landing-screen artwork and classic arcade framing
-
 ## Controls
 
 | Action | Key / Input     |
@@ -37,12 +30,6 @@ npm install
 npm start
 ```
 
-## Stack
-
-- React 18
-- React Three Fiber
-- Three.js
-- Zustand
 
 ## Credits
 
