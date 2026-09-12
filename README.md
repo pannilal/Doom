@@ -11,6 +11,10 @@ Race through a demonic stronghold rendered with `react-three-fiber`, blast enemi
 **[Play the Demo](https://praneel23o-doom.netlify.app/)**
 
 ---
+## How It Was Made
+This project was built as a browser-based 3D Doom-style game using React, Three.js, and React Three Fiber. I created the 3D environment, player movement, camera controls, enemies, shooting mechanics, and game interactions using JavaScript and Three.js. Zustand is used to manage the game state, including player health, enemies, weapons, and other gameplay data.
+
+The goal was to recreate the feel of a classic FPS game while keeping it lightweight and playable directly in the browser.
 
 ## Controls
 
